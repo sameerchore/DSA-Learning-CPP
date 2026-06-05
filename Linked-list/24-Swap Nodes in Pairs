@@ -1,0 +1,25 @@
+
+ //APPROACH:
+//  Reverse the pair and connect this pair to another pair which will be reversed
+
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head) {
+        if(head==nullptr || head->next==nullptr)return head;
+        ListNode* prev=head;
+        ListNode* temp=head->next;
+        ListNode* nextNode=nullptr;
+        head=temp;
+        while(temp!=nullptr && prev!=nullptr){
+            nextNode=temp->next;
+            if(nextNode!=nullptr){
+            prev->next=(nextNode->next)? nextNode->next: nextNode;
+            }
+            else{prev->next=nullptr;}
+            temp->next=prev;              
+            prev=nextNode;
+            temp=(nextNode!=nullptr)? nextNode->next : nullptr;
+        }
+        return head;
+    }
+};
