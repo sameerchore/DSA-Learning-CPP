@@ -1,0 +1,29 @@
+//Approch :
+//Delte the link prev to K node and then attach  the head and make new head to kth node;
+//by this link will rotate k time.
+
+class Solution {
+public:
+    ListNode* rotateRight(ListNode* head, int k) {
+        if(head==nullptr || head->next==nullptr)return head;
+        ListNode* temp=head;
+        int cnt=1;
+        while(temp->next!=nullptr){
+              temp=temp->next;
+              cnt++;}
+            
+        k=k%cnt;
+        k=cnt-k;
+        if(k == 0)return head;
+        
+        ListNode* lstNode=temp;
+        temp=head;
+
+        for(int i=1;i<k;i++)temp=temp->next;
+
+        lstNode->next=head;
+        head=temp->next;
+        temp->next=nullptr;
+        return head;
+    }
+};
