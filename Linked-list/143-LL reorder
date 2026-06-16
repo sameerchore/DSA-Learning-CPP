@@ -1,0 +1,50 @@
+class Solution {
+public:
+    void reorderList(ListNode* head) {
+        if (!head || !head->next) return;
+
+        // Find middle
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast->next && fast->next->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        // Reverse second half
+        ListNode* prev = nullptr;
+        ListNode* curr = slow->next;
+        slow->next = nullptr;
+
+        while (curr) {
+            ListNode* nxt = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nxt;
+        }
+
+        // Merge two halves
+        ListNode* first = head;
+        ListNode* second = prev;
+
+        while (second) {
+            ListNode* t1 = first->next;
+            ListNode* t2 = second->next;
+
+            first->next = second;
+            second->next = t1;
+
+            first = t1;
+            second = t2;
+        }
+    }
+};
+
+
+//Approch
+// 1. Find the middle of the linked list using the slow and fast pointer technique.
+// 2. Reverse the second half of the linked list.
+// 3. Merge the two halves of the linked list by alternating nodes from each half.
+// Time complexity: O(n) where n is the number of nodes in the linked list.
+// Space complexity: O(1) since we are modifying the linked list in place without using any additional data structures.
