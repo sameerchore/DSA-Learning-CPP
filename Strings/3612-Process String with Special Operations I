@@ -1,3 +1,25 @@
+
+
+// Stl for strings are :
+
+// 1. #include<string> // include the string library
+// 1. string s; // declare a string
+// 2. string s="abc"; // declare and initialize a string
+// 3. s.length(); // returns the length of the string
+// 4. s.empty(); // returns true if the string is empty
+// 5. s.clear(); // clears the string
+// 6. s.push_back(char ch); // adds a char at the end of the string
+// 7. s.pop_back(); // removes the last char of the string
+// 8. s.substr(int pos, int len); // returns a substring of the string
+// 9. s.find(char ch); // returns the index of the first occurrence of the char in the string
+// 10. s.find(string str); // returns the index of the first occurrence of the string in the string
+// 11. s.replace(int pos, int len, string str); // replaces a substring of the string with another string
+// 12. s.insert(int pos, string str); // inserts a string at a specific position in the string
+// 13. s.erase(int pos, int len); // erases a substring of the string
+//by In string  by += operator we add string in string as well
+
+
+
 class Solution {
 public:
     string processStr(string s) {
