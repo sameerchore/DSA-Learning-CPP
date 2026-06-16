@@ -1,0 +1,21 @@
+class Solution {
+public:
+    string processStr(string s) {
+        string ans;
+        for(char ch:s){
+            if(ch>96 && ch<123){
+                ans+=ch;
+            }
+            else if(ch=='#'){
+                ans=ans+ans;
+            }
+            else if(ch=='%'){
+                reverse(ans.begin(),ans.end());
+            }
+            else if(ans.length()!=0){
+                ans.pop_back();
+            }
+        }
+        return ans;
+    }
+};
