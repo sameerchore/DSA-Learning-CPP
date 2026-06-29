@@ -33,8 +33,13 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0283-move-zeroes) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
