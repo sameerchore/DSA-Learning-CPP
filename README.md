@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0283-move-zeroes) |
+| [1288-remove-covered-intervals](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -57,4 +58,8 @@
 | ------- |
 | [0520-detect-capital](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
