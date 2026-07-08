@@ -65,5 +65,18 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
