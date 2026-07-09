@@ -22,11 +22,9 @@ public:
     }
     TreeNode* rev(TreeNode* node,int t,TreeNode*& res){
 
-            cout<<node->val<<" ";
         if(node->left)rev(node->left,t,res); 
         if(node->right)rev(node->right,t,res);
         if(node->val==t){
-            cout<<"hi";
             res=node;}
         return res;
     }
