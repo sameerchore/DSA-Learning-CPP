@@ -11,6 +11,7 @@
 | [0110-balanced-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -46,6 +47,7 @@
 | [0110-balanced-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
