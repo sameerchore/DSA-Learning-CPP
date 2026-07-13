@@ -1,14 +1,4 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+//This is que similar to level order traversal but by flag we have to put the element infornt or in back according to flag sign ;
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
