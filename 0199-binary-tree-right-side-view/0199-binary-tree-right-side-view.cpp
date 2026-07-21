@@ -33,7 +33,12 @@ public:
 };
 
 
-//dfs solution optimlal:
+//dfs solution otimlal:
+
+//DFS Approach in this one trick use:  [ level==view.size() ]  condition
+//DFS trvel from RIGHT to LEFT for right side view element 
+//if node pass condion of level==view.size()??  then push to ans array otherwise nothing
+
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
