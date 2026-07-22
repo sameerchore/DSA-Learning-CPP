@@ -69,6 +69,7 @@
 | [1288-remove-covered-intervals](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0067-add-binary) |
+| [3925-concatenate-array-with-reverse](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
