@@ -28,3 +28,22 @@ public:
         return tot;
     }
 };
+
+
+//optimal ans by proper dfs 
+//in this we are not usinf any global varible just recursion backtracking varible *ans* wihtout pointer(&) so that it can chnage value accr to path he made nd back to paht
+class Solution {
+public:
+    int sumNumbers(TreeNode* root) {
+        return sum(root,0);
+
+    }
+    int sum(TreeNode* root,long long ans){
+        if(!root)return 0;
+        ans=ans*10+root->val;
+        if(!root->left && !root->right){
+            return ans;
+        }
+        return sum(root->left,ans)+sum(root->right,ans);;
+    }
+};
