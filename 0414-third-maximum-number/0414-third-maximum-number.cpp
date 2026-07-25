@@ -27,3 +27,49 @@ public:
         return tmax;
     }
 };
+
+
+
+
+
+//optimal way of doing this is that by neglacting the duplicates in the arr by using contine property;
+
+class Solution {
+public:
+    int thirdMax(vector<int>& nums) {
+        long long first = LLONG_MIN;
+        long long second = LLONG_MIN;
+        long long third = LLONG_MIN;
+
+        for (int x : nums) {
+            if (x == first || x == second || x == third)   //this line imp for neglecting the duplicates;;
+                continue;
+
+            if (x > first) {
+                third = second;
+                second = first;
+                first = x;
+            }
+            else if (x > second) {
+                third = second;
+                second = x;
+            }
+            else if (x > third) {
+                third = x;
+            }
+        }
+
+        return (third == LLONG_MIN) ? first : third;
+    }
+};
+
+
+// Instead of writin
+// x != first && x != second
+// inside every condition, we remove duplicates first:
+// if (x == first || x == second || x == third)
+//     continue;
+// Now every comparison becomes much simpler.
+
+
+
