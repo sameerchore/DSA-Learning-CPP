@@ -1,9 +1,9 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        long long fmax=-999999999999999999;
-        long long smax=-999999999999999999;
-        long long tmax=-999999999999999999;
+        long long fmax=LONG_MIN;
+        long long smax=LONG_MIN;
+        long long tmax=LONG_MIN;
         long long temp=tmax;
         bool fg=true;
 
