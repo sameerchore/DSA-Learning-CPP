@@ -68,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1288-remove-covered-intervals) |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
