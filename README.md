@@ -74,6 +74,7 @@
 | [0001-two-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -92,12 +93,14 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
