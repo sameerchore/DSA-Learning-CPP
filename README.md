@@ -106,6 +106,7 @@
 | [0509-fibonacci-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0067-add-binary) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
