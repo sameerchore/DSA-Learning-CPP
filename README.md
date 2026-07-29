@@ -21,6 +21,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0226-invert-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Array
 |  |
 | ------- |
