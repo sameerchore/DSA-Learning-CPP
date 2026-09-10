@@ -1,0 +1,40 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    int averageOfSubtree(TreeNode* root) {
+        int cnt=0;
+        int ls=0;
+        int rs=0;
+        dfs(root,cnt);
+        return cnt;
+    }
+    int dfs(TreeNode* root,int &cnt){
+        if(!root)return 0;
+        int ls=dfs(root->left,cnt);
+        int rs=dfs(root->right,cnt);
+        int sum=ls+rs+root->val;
+        int nc=cntNode(root);
+        if(sum/nc==root->val)cnt++;
+        return ls+rs+root->val;
+    }
+    int cntNode(TreeNode*root){
+        if(!root)return 0;
+        int l=cntNode(root->left);
+        int r=cntNode(root->right);
+        return l+r+1;
+    }
+};
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
