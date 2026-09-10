@@ -25,13 +25,11 @@ public:
         int sum=ls+rs+root->val;
         int nc=cntNode(root);
         if(sum/nc==root->val)cnt++;
-        return ls+rs+root->val;
+        return sum;
     }
     int cntNode(TreeNode*root){
         if(!root)return 0;
-        int l=cntNode(root->left);
-        int r=cntNode(root->right);
-        return l+r+1;
+        return cntNode(root->left)+cntNode(root->right)+1;
     }
 };
 
